@@ -1,0 +1,58 @@
+@media (max-width:1199px){
+.nav {
+    display: none;
+}
+/* 
+.wreperr {
+    
+} */
+
+.btl {
+    display: none;
+}
+
+.container {
+    z-index: 20;
+    padding: 45px 0 0 43px;
+}
+.logo{
+    z-index: 15;
+}
+
+.menyu {
+    display: block;
+    z-index: 20;
+}
+
+.main {
+    flex-direction: column;
+}
+
+.right {
+    order: 2;
+}
+
+.left {
+    order: 1;
+}
+
+.fontspaddings {
+    width: 150px;
+}
+
+.log-item {
+    padding: 0;
+}
+
+.main .right .main-title {
+    font-size: 15px;
+    line-height: 31px;
+    text-align: center;
+}
+
+}
+
+    @media (max-width:991px){}
+    @media (max-width:767px){}
+    @media (max-width:565){}
+    @media (max-width:480px){}
